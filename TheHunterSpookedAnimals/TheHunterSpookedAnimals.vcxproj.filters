@@ -24,9 +24,4 @@
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="G:\OneDrive - JPLSYSTEMES SAS\Desktop\TheHunterCotWSpookedAnimals.png">
-      <Filter>Fichiers de ressources</Filter>
-    </Image>
-  </ItemGroup>
 </Project>
